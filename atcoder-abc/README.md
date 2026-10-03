@@ -11,6 +11,7 @@ AtCoder Beginner Contest の A〜C 問題を、初学者向けに Python で解�
 | [ABC477 B - Standing Outliers](https://atcoder.jp/contests/abc477/tasks/abc477_b) | [動画](https://youtu.be/QFl2bjUu1qU) | [abc477_b](abc477_b/) |
 | [ABC477 C - Range Search Query](https://atcoder.jp/contests/abc477/tasks/abc477_c) | [動画](https://youtu.be/1dPvtYBNqn0) | [abc477_c](abc477_c/) |
 | [ABC478 A - Grapes](https://atcoder.jp/contests/abc478/tasks/abc478_a) | [動画](https://youtu.be/13gOWxWYQxc) | [abc478_a](abc478_a/) |
+| [ABC478 C - Sort Subarray](https://atcoder.jp/contests/abc478/tasks/abc478_c) | [動画](https://youtu.be/9g1gEZztWsE) | [abc478_c](abc478_c/) |
 | [ABC478 D - Range Set Insertion Query](https://atcoder.jp/contests/abc478/tasks/abc478_d) | [動画](https://youtu.be/YCzc1NToRZs) | [abc478_d](abc478_d/) |
 
 コードは入出力例で動作を確認したものです。コンテスト終了後に公開しています。
