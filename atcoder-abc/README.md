@@ -13,6 +13,6 @@ AtCoder Beginner Contest の A〜C 問題を、初学者向けに Python で解�
 | [ABC478 A - Grapes](https://atcoder.jp/contests/abc478/tasks/abc478_a) | [動画](https://youtu.be/13gOWxWYQxc) | [abc478_a](abc478_a/) |
 | [ABC478 B - Topping](https://atcoder.jp/contests/abc478/tasks/abc478_b) | [動画](https://youtu.be/YcxuY7cuqQk) | [abc478_b](abc478_b/) |
 | [ABC478 C - Sort Subarray](https://atcoder.jp/contests/abc478/tasks/abc478_c) | [動画](https://youtu.be/9g1gEZztWsE) | [abc478_c](abc478_c/) |
-| [ABC478 D - Range Set Insertion Query](https://atcoder.jp/contests/abc478/tasks/abc478_d) | [動画](https://youtu.be/YCzc1NToRZs) | [abc478_d](abc478_d/) |
+| [ABC478 D - Range Set Insertion Query](https://atcoder.jp/contests/abc478/tasks/abc478_d) | [動画](https://youtu.be/fO0nQAbCBrQ) | [abc478_d](abc478_d/) |
 
 コードは入出力例で動作を確認したものです。コンテスト終了後に公開しています。
